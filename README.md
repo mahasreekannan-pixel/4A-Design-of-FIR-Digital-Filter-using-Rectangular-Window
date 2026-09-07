@@ -39,6 +39,11 @@ PC installed with SCILAB.
 <br>ylabel( 'Magnitude in dB'); 
 <br>title('Frequency Response of FIR LPF using Rectangular Window');
 
+# Manual Calculation :
+<img width="1600" height="1464" alt="image" src="https://github.com/user-attachments/assets/be46dda3-2de2-4524-9880-a12161cda648" />
+<img width="930" height="1600" alt="image" src="https://github.com/user-attachments/assets/bcd928c7-f65c-48b7-8f83-420ff09aff6c" />
+<img width="967" height="1556" alt="image" src="https://github.com/user-attachments/assets/761b81c1-0b29-4a19-85aa-aed415ce132c" />
+
 # OUTPUT: 
 <img width="630" height="323" alt="image" src="https://github.com/user-attachments/assets/70f21c22-de93-4a06-b891-bdf58b9eac86" />
 <img width="458" height="374" alt="image" src="https://github.com/user-attachments/assets/9299b19c-616b-4b53-886d-a790375dd1b3" />
