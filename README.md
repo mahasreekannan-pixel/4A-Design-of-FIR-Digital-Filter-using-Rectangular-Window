@@ -204,7 +204,4 @@ Thus design of BAND STOP FIR digital filter using-Rectangular-Window waveforms w
 
 # RESULT: 
 Thus design of BAND STOP FIR digital filter using-Rectangular-Window waveforms were plotted and output was verified.
-<img width="541" height="825" alt="image" src="https://github.com/user-attachments/assets/c1f0cc7f-9310-4539-89fc-d4a7cbb8f5fc" />
 
-
-# RESULT: 
