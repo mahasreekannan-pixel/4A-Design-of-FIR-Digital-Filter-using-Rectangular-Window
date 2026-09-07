@@ -196,11 +196,12 @@ title('Frequency Response of FIR BSF using Rectangular Window');
 # RESULT: 
 Thus design of BAND STOP FIR digital filter using-Rectangular-Window waveforms were plotted and output was verified.
 
-<img width="1600" height="1464" alt="image" src="https://github.com/user-attachments/assets/be46dda3-2de2-4524-9880-a12161cda648" />
 <img width="930" height="1600" alt="image" src="https://github.com/user-attachments/assets/bcd928c7-f65c-48b7-8f83-420ff09aff6c" />
 <img width="967" height="1556" alt="image" src="https://github.com/user-attachments/assets/761b81c1-0b29-4a19-85aa-aed415ce132c" />
 <img width="541" height="825" alt="image" src="https://github.com/user-attachments/assets/c1f0cc7f-9310-4539-89fc-d4a7cbb8f5fc" />
 
+<img width="541" height="825" alt="image" src="https://github.com/user-attachments/assets/c1f0cc7f-9310-4539-89fc-d4a7cbb8f5fc" />
+<img width="541" height="825" alt="image" src="https://github.com/user-attachments/assets/c1f0cc7f-9310-4539-89fc-d4a7cbb8f5fc" />
 
 # RESULT: 
 Thus design of BAND STOP FIR digital filter using-Rectangular-Window waveforms were plotted and output was verified.
